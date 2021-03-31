@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=nattawatsupangsarn015" alt="nattawatsupangsarn015" />
+<img src="https://komarev.com/ghpvc/?username=nattawatsupangsarn015&label=visitors&color=orange" alt="nattawatsupangsarn015" />
 
 <!--
 **nattawatsupangsarn015/nattawatsupangsarn015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
