@@ -1,9 +1,14 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://www.facebook.com/NATTAWATSMILE">
+  <img align="left" alt="facebook" width="22px" src="https://github.com/nattawatsupangsarn015/nattawatsupangsarn015/blob/main/src/icon/facebook.svg" />
+</a>
 <a href="https://www.linkedin.com/in/nattawatsupangsarn/">
   <img align="left" alt="linkedin" width="22px" src="https://github.com/nattawatsupangsarn015/nattawatsupangsarn015/blob/main/src/icon/linkedin.svg" />
 </a>
-
+<a href="https://www.instagram.com/superpowermax/">
+  <img align="left" alt="instagram" width="22px" src="https://github.com/nattawatsupangsarn015/nattawatsupangsarn015/blob/main/src/icon/instagram.svg" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=nattawatsupangsarn015&label=visitors&color=orange" alt="nattawatsupangsarn015" />
 
 <!--
