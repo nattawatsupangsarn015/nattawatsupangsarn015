@@ -12,9 +12,9 @@
 <img src="https://komarev.com/ghpvc/?username=nattawatsupangsarn015&label=visitors&color=orange" alt="nattawatsupangsarn015" />
 
 
-#### My profile's states 📈
+#### GitHub stats 📈
 
-___
+---
 
 ![Nattawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nattawatsupangsarn015&count_private=true&show_icons=true&theme=great-gatsby)
 
@@ -23,7 +23,7 @@ ___
 
  #### My favourite's quotes
 
-___
+---
 
 ```
 Never let them see that they get to you 🙂
