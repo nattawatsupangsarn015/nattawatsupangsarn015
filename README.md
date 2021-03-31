@@ -11,6 +11,9 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=nattawatsupangsarn015&label=visitors&color=orange" alt="nattawatsupangsarn015" />
 
+
+![Nattawat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nattawatsupangsarn015&show_icons=true&count_private=true)
+
 <!--
 **nattawatsupangsarn015/nattawatsupangsarn015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
