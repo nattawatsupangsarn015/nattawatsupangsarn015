@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" style="display: block !important;">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20">
 
 <a href="https://medium.com/@nattawatsupangsarn015">
   <img align="left" alt="medium" width="20px" src="https://raw.githubusercontent.com/nattawatsupangsarn015/nattawatsupangsarn015/main/src/icon/medium.svg" />
