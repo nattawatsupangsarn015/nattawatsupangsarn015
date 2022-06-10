@@ -24,12 +24,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nattawatsupangsarn015&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
 <img alt="GIF" src="https://media3.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif?cid=ecf05e473eecp5yedzg4wqjhywdu926j5r8ze84ojlc5igkl&rid=giphy.gif" height="167" width="300" />
 
-### Spotify Playing 🎧
-
----
-
-[<img src="https://spotify-now-playing-nattawatsupangsarn.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31kp5baboo7eghbvml4a2bzdvn3m?si=SPJGdFEJRLC-QbH3aM1RxA)
-
  #### My favourite quotes
 
 ---
