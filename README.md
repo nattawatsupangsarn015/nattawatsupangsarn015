@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-<a href="https://medium.com/@nattawatsupangsarn015">
-  <img align="left" alt="medium" style="width: 20px;" src="https://raw.githubusercontent.com/nattawatsupangsarn015/nattawatsupangsarn015/main/src/icon/medium.gif"  />
+<a href="https://medium.com/@nattawatsupangsarn015" style="width: 20px;">
+  <img align="left" alt="medium" width="20px" src="https://raw.githubusercontent.com/nattawatsupangsarn015/nattawatsupangsarn015/main/src/icon/medium.gif" />
 </a>
 <a href="https://www.facebook.com/NATTAWATSMILE">
   <img align="left" alt="facebook" width="20px" src="https://raw.githubusercontent.com/nattawatsupangsarn015/nattawatsupangsarn015/main/src/icon/facebook.svg" />
