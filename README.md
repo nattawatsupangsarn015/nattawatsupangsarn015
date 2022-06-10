@@ -1,9 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
 
 <a href="https://medium.com/@nattawatsupangsarn015">
-  <img align="left" alt="medium" width="20" height="20" src="https://raw.githubusercontent.com/nattawatsupangsarn015/nattawatsupangsarn015/main/src/icon/medium.gif" />
+  <img align="left" alt="medium" width="20px" src="https://raw.githubusercontent.com/nattawatsupangsarn015/nattawatsupangsarn015/main/src/icon/medium.svg" />
 </a>
-<span style="padding-right: 20px" />
 <a href="https://www.facebook.com/NATTAWATSMILE">
   <img align="left" alt="facebook" width="20px" src="https://raw.githubusercontent.com/nattawatsupangsarn015/nattawatsupangsarn015/main/src/icon/facebook.svg" />
 </a>
